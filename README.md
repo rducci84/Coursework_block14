@@ -12,4 +12,4 @@ In this project, you will be building out the functionality of a simple app that
 
 ## Submission
 
-Submit a link to your GitHub repo.
+Submit a link to your GitHub repo..
